@@ -1,0 +1,152 @@
+{
+  "name": "",
+  "isOrdered": true,
+  "folders": {
+    "理财": {
+      "name": "理财",
+      "isOrdered": true,
+      "folders": {},
+      "files": {}
+    },
+    "小程序": {
+      "name": "小程序",
+      "isOrdered": true,
+      "folders": {},
+      "files": {}
+    },
+    "docker": {
+      "name": "docker",
+      "isOrdered": true,
+      "folders": {
+        "k8s.assets": {
+          "name": "k8s.assets",
+          "isOrdered": true,
+          "folders": {},
+          "files": {}
+        },
+        "ks视频.assets": {
+          "name": "ks视频.assets",
+          "isOrdered": true,
+          "folders": {},
+          "files": {}
+        }
+      },
+      "files": {
+        "k8s": 0,
+        "docker": 1,
+        "ks视频": 2
+      }
+    },
+    "other": {
+      "name": "other",
+      "isOrdered": true,
+      "folders": {},
+      "files": {
+        "some": 0
+      }
+    },
+    "redies": {
+      "name": "redies",
+      "isOrdered": true,
+      "folders": {},
+      "files": {
+        "redies": 0,
+        "rabitmq": 1
+      }
+    },
+    "tech": {
+      "name": "tech",
+      "isOrdered": true,
+      "folders": {
+        "前端": {
+          "name": "前端",
+          "isOrdered": true,
+          "folders": {},
+          "files": {}
+        },
+        "数据库": {
+          "name": "数据库",
+          "isOrdered": true,
+          "folders": {},
+          "files": {}
+        },
+        "csharp": {
+          "name": "csharp",
+          "isOrdered": true,
+          "folders": {
+            "分析aopFramwork": {
+              "name": "分析aopFramwork",
+              "isOrdered": true,
+              "folders": {},
+              "files": {}
+            },
+            "分析Norns": {
+              "name": "分析Norns",
+              "isOrdered": true,
+              "folders": {},
+              "files": {}
+            },
+            "abp": {
+              "name": "abp",
+              "isOrdered": true,
+              "folders": {},
+              "files": {
+                "abp": 0
+              }
+            },
+            "charp核心": {
+              "name": "charp核心",
+              "isOrdered": true,
+              "folders": {},
+              "files": {
+                "18 程序集": 0
+              }
+            },
+            "vs使用技巧": {
+              "name": "vs使用技巧",
+              "isOrdered": true,
+              "folders": {
+                "vs使用技巧.assets": {
+                  "name": "vs使用技巧.assets",
+                  "isOrdered": true,
+                  "folders": {},
+                  "files": {}
+                }
+              },
+              "files": {
+                "vs使用技巧": 0
+              }
+            },
+            "RPA_activity": {
+              "name": "RPA_activity",
+              "isOrdered": true,
+              "folders": {},
+              "files": {}
+            }
+          },
+          "files": {}
+        },
+        "git": {
+          "name": "git",
+          "isOrdered": true,
+          "folders": {},
+          "files": {}
+        },
+        "java": {
+          "name": "java",
+          "isOrdered": true,
+          "folders": {},
+          "files": {}
+        },
+        "leecode": {
+          "name": "leecode",
+          "isOrdered": true,
+          "folders": {},
+          "files": {}
+        }
+      },
+      "files": {}
+    }
+  },
+  "files": {}
+}
